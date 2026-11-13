@@ -1,0 +1,1 @@
+postgresql://postgres:[Secondbrain@8975]@db.wrwlsxokvrsvjbwevdow.supabase.co:5432/postgres
